@@ -1,3 +1,4 @@
 Name :- Ramanam Pushpalatha 
 course :- BSc Computer Science 
 I learnt how to create a github account and how to upload pictures and files in it.
+I also learnt how to delete, rename a file in a respective repository or in a repository 
